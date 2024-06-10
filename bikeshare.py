@@ -19,7 +19,7 @@ class Player:
     def learn(self, my_move, their_move):
         pass
 
-
+# This player only plays rock
 class AllRockPlayer(Player):
     pass
 
