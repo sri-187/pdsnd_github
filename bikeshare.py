@@ -52,7 +52,7 @@ class CyclePlayer(Player):
         self.last_move = (self.last_move + 1) % 3
         return moves[self.last_move]
 
-
+# This player makes a random choice every round
 class RandomPlayer(Player):
     def move(self):
         return random.choice(moves)
