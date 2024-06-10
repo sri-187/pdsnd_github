@@ -7,10 +7,11 @@ This Project was created on 06/09/2024
 **Bikeshare project**
 
 ### Description
-Describe what your project is about and what it does
+This project is part of Udacity training on _Introduction to version control_.
+
 
 ### Files used
-Include the files used
+Files included as part of the project are ***bikeshare.py***.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted
+Special Thanks to **Udacity Team** for this course.
